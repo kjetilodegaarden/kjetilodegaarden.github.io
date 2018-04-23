@@ -6,19 +6,29 @@
     <description>Recent content on Skåtøy Skogsprint</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://kjetilodegaarden.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Løyper</title>
+      <title>Bilder fra 2017</title>
+      <link>https://kjetilodegaarden.github.io/artikler/2017/</link>
+      <pubDate>Sun, 22 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://kjetilodegaarden.github.io/artikler/2017/</guid>
+      <description>Her er noen bilder fra løpet i 2017. Fotograf er Chad Tyers.
+           </description>
+    </item>
+    
+    <item>
+      <title>Om løypene</title>
       <link>https://kjetilodegaarden.github.io/artikler/loyper/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://kjetilodegaarden.github.io/artikler/loyper/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
- Løypekart 7 kilometer    Løypekart 7 kilometer   The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <description>1 km En runde på idylliske skogsstier rundt Fløyfjellet (Kollen nord for kirkegården.) Den passer nok godt for foreldre med små barn, gamle eller alle de som veldig gjerne VIL, men som heldigvis har sjølinnsikt nok til ikke å gape over for mye&amp;hellip;.
+3 km Går på grusvei, skogsvei, jorde og skogssti. Løypa har endel motbakker mot slutten. Alle løypene kommer til å være ferdig merka ei uke før konkurransen, for de som vil gjøre seg kjent eller bare trene.</description>
     </item>
     
     <item>
@@ -27,9 +37,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kjetilodegaarden.github.io/info/</guid>
-      <description> 1. PÅMELDING Gjøres på stedet.
- Hvis du lurer på noe spør oss på Facebook (lenke øverst til høyre).
- </description>
+      <description>PÅMELDING Gjøres på stedet ved cafeen.
+PRAKTISK INFO ​Start og mål er ved Skåtøy Kafé. 1 km&amp;rsquo;eren starter kl 13:00, 3 km&amp;rsquo;eren kl 13:30 og 7 km&amp;rsquo;eren kl 14:30. Påmeldingsavgift er 50 kr for barn (tom 15 år) og 100 kr for voksne. Påmelding inntil 30 min. før hvert løp. Betal gjerne med kort. På kafeen kan man låne toaletter. Fra flytebryggene i Kirkebukta eller i Åsvika (begge 5-10 min gange) er det fint å bade.</description>
     </item>
     
     <item>
@@ -38,7 +47,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kjetilodegaarden.github.io/om/</guid>
-      <description>Løypekart 3 og 7 kilometer   PRAKTISK INFO ​Start og mål er ved Skåtøy Kafé. 1 km&amp;rsquo;eren starter kl 13:00, 3 km&amp;rsquo;eren kl 13:30 og 7 km&amp;rsquo;eren kl 14:30. Påmeldingsavgift er 50 kr for barn (tom 15 år) og 100 kr for voksne. Påmelding inntil 30 min. før hvert løp. Betal gjerne med kort. På kafeen kan man låne toaletter. Fra flytebryggene i Kirkebukta eller i Åsvika (begge 5-10 min gange) er det fint å bade.</description>
+      <description>Løypekart 3 og 7 kilometer   OM SKOGSPRINTEN For tredje gang arrangerer Kulturkomiteen i Skåtøy Vel Skåtøy Skogsprint, som vanlig på den andre lørdagen i juli. Ifjor nådde vi 150 deltakere, og arrangementet forløp knirkefritt. Også iår starter terrengløpet fra Skåtøy Kafé, med løyper på 1km, 3km og 7km. Skåtøy Skogsprint er et løp for barn og voksne, proffer og mosjonister. Løypene går i utfordrende skogsterreng, på veier, men aller mest på stier i idylliske omgivelser på Skåtøy.</description>
     </item>
     
   </channel>
