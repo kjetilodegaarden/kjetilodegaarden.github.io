@@ -3,7 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kjetilodegaarden.github.io/artikler/gruppevinnere2017/</loc>
+    <lastmod>2018-06-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kjetilodegaarden.github.io/artikler/resultater2017/</loc>
+    <lastmod>2018-06-13T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://kjetilodegaarden.github.io/artikler/2017/</loc>
+    <lastmod>2018-04-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kjetilodegaarden.github.io/artikler/resultater2016/</loc>
+    <lastmod>2018-04-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kjetilodegaarden.github.io/resultater/</loc>
     <lastmod>2018-04-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -17,15 +45,22 @@
   </url>
   
   <url>
-    <loc>https://kjetilodegaarden.github.io/tags/2017/</loc>
+    <loc>https://kjetilodegaarden.github.io/tags/2016/</loc>
     <lastmod>2018-04-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://kjetilodegaarden.github.io/tags/2017/</loc>
+    <lastmod>2018-06-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kjetilodegaarden.github.io/artikler/</loc>
-    <lastmod>2018-04-22T10:58:08-04:00</lastmod>
+    <lastmod>2018-06-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -57,7 +92,7 @@
   
   <url>
     <loc>https://kjetilodegaarden.github.io/</loc>
-    <lastmod>2018-04-22T10:58:08-04:00</lastmod>
+    <lastmod>2018-06-22T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
