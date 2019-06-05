@@ -82,6 +82,11 @@
   </url>
   
   <url>
+    <loc>https://kjetilodegaarden.github.io/artikler/resultater2018/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kjetilodegaarden.github.io/categories/</loc>
     <priority>0</priority>
   </url>
