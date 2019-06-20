@@ -4,34 +4,41 @@
   
   <url>
     <loc>https://kjetilodegaarden.github.io/tags/2019/</loc>
-    <lastmod>2019-05-06T10:58:08-04:00</lastmod>
+    <lastmod>2019-06-20T10:58:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kjetilodegaarden.github.io/artikler/</loc>
-    <lastmod>2019-05-06T10:58:08-04:00</lastmod>
+    <lastmod>2019-06-20T10:58:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kjetilodegaarden.github.io/artikler/informasjon2019/</loc>
-    <lastmod>2019-05-06T10:58:08-04:00</lastmod>
+    <lastmod>2019-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kjetilodegaarden.github.io/</loc>
-    <lastmod>2019-05-06T10:58:08-04:00</lastmod>
+    <lastmod>2019-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kjetilodegaarden.github.io/tags/</loc>
-    <lastmod>2019-05-06T10:58:08-04:00</lastmod>
+    <lastmod>2019-06-20T10:58:08-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kjetilodegaarden.github.io/artikler/resultater2018/</loc>
+    <lastmod>2019-06-19T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -104,11 +111,6 @@
   <url>
     <loc>https://kjetilodegaarden.github.io/tags/l%C3%B8yper/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kjetilodegaarden.github.io/artikler/resultater2018/</loc>
     <priority>0</priority>
   </url>
   
